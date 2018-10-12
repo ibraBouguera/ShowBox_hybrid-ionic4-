@@ -1,0 +1,7 @@
+{
+  "name": "ShowBox",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
